@@ -1,7 +1,4 @@
-# aoc_2022
-
-https://adventofcode.com/2022
-
+[AOC ~ 2022] (https://adventofcode.com/2022)
               ,         
            \  :  /        
         `. __/ \__ .'       
